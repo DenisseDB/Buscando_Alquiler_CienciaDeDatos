@@ -37,8 +37,10 @@ Categorizar precios en intervalos y analizar la distribución de opciones de viv
  Visualizar precios promedio según la cantidad de habitaciones y combinaciones de
  habitaciones/baños.
  Explorar la distribución de opciones de vivienda por categoría de precios.
- Integrantes
- Denisse Dominguez Bolaños
+
+Integrantes
+
+Denisse Dominguez Bolaños
  
 Daniel Rettberg Soler
  
